@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cvsu.edu.ph.ico",
     "slug": "cv-su-main-website",
     "status": "down",
-    "uptime": "68.88%",
-    "uptimeDay": "68.88%",
-    "uptimeWeek": "68.88%",
-    "uptimeMonth": "68.88%",
-    "uptimeYear": "68.88%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 0
+      "2023-05-11": 172
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 688,
-    "timeWeek": 688,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "time": 412,
+    "timeDay": 412,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 351,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
