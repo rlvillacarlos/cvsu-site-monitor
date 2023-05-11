@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cvsu.edu.ph.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "0%",
-    "uptimeDay": "0%",
-    "uptimeWeek": "0%",
-    "uptimeMonth": "0%",
-    "uptimeYear": "0%",
+    "uptime": "1.42%",
+    "uptimeDay": "1.42%",
+    "uptimeWeek": "1.42%",
+    "uptimeMonth": "1.42%",
+    "uptimeYear": "1.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 2
+      "2023-05-11": 36
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://myportal.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/myportal.cvsu.edu.ph.ico",
     "slug": "student-portal",
-    "status": "down",
-    "uptime": "0%",
-    "uptimeDay": "0%",
-    "uptimeWeek": "0%",
-    "uptimeMonth": "0%",
-    "uptimeYear": "0%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.06%",
+    "uptimeDay": "2.06%",
+    "uptimeWeek": "2.06%",
+    "uptimeMonth": "2.06%",
+    "uptimeYear": "2.06%",
+    "time": 1176,
+    "timeDay": 1176,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2023-05-11": 2
+      "2023-05-11": 35
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registrar.cvsu.edu.ph.ico",
     "slug": "registrar",
     "status": "down",
-    "uptime": "0%",
-    "uptimeDay": "0%",
-    "uptimeWeek": "0%",
-    "uptimeMonth": "0%",
-    "uptimeYear": "0%",
+    "uptime": "1.44%",
+    "uptimeDay": "1.44%",
+    "uptimeWeek": "1.44%",
+    "uptimeMonth": "1.44%",
+    "uptimeYear": "1.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 1
+      "2023-05-11": 35
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://elearning.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.cvsu.edu.ph.ico",
     "slug": "lms",
-    "status": "down",
-    "uptime": "0%",
-    "uptimeDay": "0%",
-    "uptimeWeek": "0%",
-    "uptimeMonth": "0%",
-    "uptimeYear": "0%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.67%",
+    "uptimeDay": "1.67%",
+    "uptimeWeek": "1.67%",
+    "uptimeMonth": "1.67%",
+    "uptimeYear": "1.67%",
+    "time": 3614,
+    "timeDay": 3614,
+    "timeWeek": 3614,
+    "timeMonth": 3614,
+    "timeYear": 3614,
     "dailyMinutesDown": {
-      "2023-05-11": 1
+      "2023-05-11": 35
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
     "status": "down",
-    "uptime": "0%",
-    "uptimeDay": "0%",
-    "uptimeWeek": "0%",
-    "uptimeMonth": "0%",
-    "uptimeYear": "0%",
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 0
+      "2023-05-11": 34
     }
   }
 ]
