@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 521,
+      "2023-05-14": 526,
       "2023-05-13": 1440,
       "2023-05-12": 948
     }
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/myportal.cvsu.edu.ph.ico",
     "slug": "student-portal",
     "status": "up",
-    "uptime": "89.38%",
+    "uptime": "89.39%",
     "uptimeDay": "69.09%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "89.38%",
-    "uptimeYear": "89.38%",
+    "uptimeWeek": "89.39%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "89.39%",
     "time": 1301,
     "timeDay": 1617,
     "timeWeek": 1301,
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 521,
+      "2023-05-14": 526,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1123
@@ -70,19 +70,19 @@
     "url": "https://elearning.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.cvsu.edu.ph.ico",
     "slug": "lms",
-    "status": "down",
-    "uptime": "89.41%",
-    "uptimeDay": "69.12%",
-    "uptimeWeek": "89.41%",
-    "uptimeMonth": "89.41%",
-    "uptimeYear": "89.41%",
-    "time": 3815,
-    "timeDay": 3397,
-    "timeWeek": 3815,
-    "timeMonth": 3815,
-    "timeYear": 3815,
+    "status": "up",
+    "uptime": "89.31%",
+    "uptimeDay": "68.76%",
+    "uptimeWeek": "89.31%",
+    "uptimeMonth": "89.31%",
+    "uptimeYear": "89.31%",
+    "time": 3646,
+    "timeDay": 2928,
+    "timeWeek": 3646,
+    "timeMonth": 3646,
+    "timeYear": 3646,
     "dailyMinutesDown": {
-      "2023-05-14": 445,
+      "2023-05-14": 450,
       "2023-05-11": 35
     }
   },
@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 521,
+      "2023-05-14": 526,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1122
