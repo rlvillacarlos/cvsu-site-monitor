@@ -4,7 +4,7 @@ repo: cvsu-site-monitor # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.cvsu.edu.ph
+    url: http://www.cvsu.edu.ph
     maxResponseTime: 10000
   - name: Student Portal
     url: https://myportal.cvsu.edu.ph
