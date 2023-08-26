@@ -4,7 +4,7 @@ repo: cvsu-site-monitor # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.cvsu.edu.ph
+    url: https://cvsu.edu.ph
     method: POST
   - name: Student Portal
     url: https://myportal.cvsu.edu.ph
