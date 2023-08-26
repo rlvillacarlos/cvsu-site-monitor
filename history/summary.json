@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 429,
+      "2023-08-26": 438,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
@@ -156,7 +156,7 @@
     "url": "https://elearning.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.cvsu.edu.ph.ico",
     "slug": "lms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
     "uptimeDay": "82.03%",
     "uptimeWeek": "97.43%",
