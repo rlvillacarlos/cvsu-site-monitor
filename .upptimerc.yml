@@ -9,6 +9,8 @@ sites:
   - name: Registrar
     url: https://registrar.cvsu.edu.ph
     method: POST    
+  - name: HR
+    url: https://hr.cvsu.edu.ph
   - name: Student Portal
     url: https://myportal.cvsu.edu.ph
   - name: LMS
