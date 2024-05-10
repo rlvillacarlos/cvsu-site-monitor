@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cvsu.edu.ph.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "68.94%",
+    "uptime": "68.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.79%",
-    "uptimeYear": "68.94%",
-    "time": 4625,
-    "timeDay": 2645,
-    "timeWeek": 2868,
-    "timeMonth": 7325,
-    "timeYear": 4625,
+    "uptimeYear": "68.98%",
+    "time": 4620,
+    "timeDay": 2977,
+    "timeWeek": 2865,
+    "timeMonth": 7317,
+    "timeYear": 4620,
     "dailyMinutesDown": {
       "2024-05-01": 177,
       "2024-04-24": 58,
@@ -147,8 +147,7 @@
       "2023-05-15": 1435,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
-      "2023-05-12": 1440,
-      "2023-05-11": 678
+      "2023-05-12": 1440
     }
   },
   {
@@ -157,15 +156,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/registrar.cvsu.edu.ph.ico",
     "slug": "registrar",
     "status": "up",
-    "uptime": "56.45%",
+    "uptime": "56.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.93%",
-    "uptimeYear": "56.45%",
+    "uptimeYear": "56.54%",
     "time": 1911,
-    "timeDay": 1363,
-    "timeWeek": 1720,
-    "timeMonth": 1701,
+    "timeDay": 1914,
+    "timeWeek": 1789,
+    "timeMonth": 1708,
     "timeYear": 1911,
     "dailyMinutesDown": {
       "2024-05-01": 177,
@@ -298,8 +297,7 @@
       "2023-05-15": 1438,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
-      "2023-05-12": 1440,
-      "2023-05-11": 1123
+      "2023-05-12": 1440
     }
   },
   {
@@ -308,16 +306,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hr.cvsu.edu.ph.ico",
     "slug": "hr",
     "status": "down",
-    "uptime": "75.54%",
+    "uptime": "76.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.54%",
-    "uptimeYear": "75.54%",
-    "time": 3166,
-    "timeDay": 895,
-    "timeWeek": 1061,
-    "timeMonth": 3166,
-    "timeYear": 3166,
+    "uptimeMonth": "76.06%",
+    "uptimeYear": "76.06%",
+    "time": 3095,
+    "timeDay": 1174,
+    "timeWeek": 1056,
+    "timeMonth": 3095,
+    "timeYear": 3095,
     "dailyMinutesDown": {
       "2024-04-21": 838,
       "2024-04-20": 1440,
@@ -341,9 +339,9 @@
     "uptimeMonth": "91.95%",
     "uptimeYear": "98.58%",
     "time": 1478,
-    "timeDay": 1583,
-    "timeWeek": 1096,
-    "timeMonth": 1470,
+    "timeDay": 1467,
+    "timeWeek": 1175,
+    "timeMonth": 1462,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2024-05-01": 176,
@@ -368,8 +366,7 @@
       "2023-08-07": 28,
       "2023-07-20": 16,
       "2023-05-21": 364,
-      "2023-05-14": 445,
-      "2023-05-11": 35
+      "2023-05-14": 445
     }
   },
   {
@@ -378,16 +375,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/elearning.cvsu.edu.ph.ico",
     "slug": "lms",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.94%",
-    "uptimeYear": "99.06%",
-    "time": 3154,
-    "timeDay": 2667,
-    "timeWeek": 2794,
-    "timeMonth": 3153,
-    "timeYear": 3154,
+    "uptimeYear": "99.07%",
+    "time": 3156,
+    "timeDay": 3670,
+    "timeWeek": 2889,
+    "timeMonth": 3164,
+    "timeYear": 3156,
     "dailyMinutesDown": {
       "2024-05-01": 181,
       "2024-04-15": 668,
@@ -397,8 +394,7 @@
       "2023-09-18": 217,
       "2023-08-26": 259,
       "2023-05-21": 369,
-      "2023-05-14": 450,
-      "2023-05-11": 35
+      "2023-05-14": 450
     }
   },
   {
@@ -407,16 +403,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.15%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "91.78%",
-    "uptimeYear": "97.14%",
-    "time": 4759,
-    "timeDay": 11203,
-    "timeWeek": 9842,
-    "timeMonth": 6111,
-    "timeYear": 4759,
+    "uptimeYear": "97.15%",
+    "time": 4758,
+    "timeDay": 11685,
+    "timeWeek": 9894,
+    "timeMonth": 6120,
+    "timeYear": 4758,
     "dailyMinutesDown": {
       "2024-05-09": 18,
       "2024-05-05": 59,
@@ -431,8 +427,7 @@
       "2023-05-15": 53,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
-      "2023-05-12": 1440,
-      "2023-05-11": 1122
+      "2023-05-12": 1440
     }
   }
 ]
