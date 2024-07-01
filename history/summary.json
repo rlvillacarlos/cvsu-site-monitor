@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cvsu.edu.ph.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "72.09%",
+    "uptime": "72.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "91.42%",
-    "uptimeYear": "82.25%",
+    "uptimeYear": "82.27%",
     "time": 5162,
     "timeDay": 2824,
     "timeWeek": 3381,
-    "timeMonth": 4028,
+    "timeMonth": 4058,
     "timeYear": 5162,
     "dailyMinutesDown": {
       "2024-06-24": 91,
@@ -108,8 +108,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -118,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/registrar.cvsu.edu.ph.ico",
     "slug": "registrar",
     "status": "up",
-    "uptime": "63.02%",
+    "uptime": "63.03%",
     "uptimeDay": "59.78%",
     "uptimeWeek": "93.36%",
     "uptimeMonth": "92.29%",
-    "uptimeYear": "79.43%",
+    "uptimeYear": "79.45%",
     "time": 2845,
     "timeDay": 1975,
     "timeWeek": 1571,
-    "timeMonth": 4658,
+    "timeMonth": 4722,
     "timeYear": 2845,
     "dailyMinutesDown": {
       "2024-06-30": 579,
@@ -219,8 +218,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -264,7 +262,7 @@
     "time": 1698,
     "timeDay": 951,
     "timeWeek": 1251,
-    "timeMonth": 2666,
+    "timeMonth": 2705,
     "timeYear": 1754,
     "dailyMinutesDown": {
       "2024-06-24": 90,
@@ -313,7 +311,7 @@
     "time": 3135,
     "timeDay": 2840,
     "timeWeek": 3015,
-    "timeMonth": 2983,
+    "timeMonth": 2992,
     "timeYear": 3114,
     "dailyMinutesDown": {
       "2024-06-24": 89,
@@ -340,7 +338,7 @@
     "time": 5018,
     "timeDay": 4787,
     "timeWeek": 5240,
-    "timeMonth": 5960,
+    "timeMonth": 6034,
     "timeYear": 5018,
     "dailyMinutesDown": {
       "2024-06-24": 89,
