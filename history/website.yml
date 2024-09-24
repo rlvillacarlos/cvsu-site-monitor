@@ -1,7 +1,7 @@
 url: https://cvsu.edu.ph
-status: up
-code: 200
-responseTime: 4477
-lastUpdated: 2024-09-23T23:10:31.548Z
+status: down
+code: 500
+responseTime: 1696
+lastUpdated: 2024-09-24T13:36:58.555Z
 startTime: 2023-05-15T00:57:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
