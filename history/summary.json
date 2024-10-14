@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "74.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.98%",
-    "uptimeMonth": "65.21%",
+    "uptimeWeek": "75.41%",
+    "uptimeMonth": "65.54%",
     "uptimeYear": "93.12%",
     "time": 5363,
-    "timeDay": 3582,
-    "timeWeek": 7027,
-    "timeMonth": 9605,
-    "timeYear": 5582,
+    "timeDay": 5320,
+    "timeWeek": 6885,
+    "timeMonth": 9688,
+    "timeYear": 5587,
     "dailyMinutesDown": {
       "2024-10-11": 853,
       "2024-10-10": 492,
@@ -85,8 +85,7 @@
       "2023-12-05": 731,
       "2023-11-29": 16,
       "2023-11-06": 52,
-      "2023-10-25": 47,
-      "2023-10-15": 896
+      "2023-10-25": 47
     }
   },
   {
@@ -100,11 +99,11 @@
     "uptimeWeek": "91.55%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "96.45%",
-    "time": 3103,
-    "timeDay": 1142,
-    "timeWeek": 1460,
-    "timeMonth": 1312,
-    "timeYear": 3272,
+    "time": 3102,
+    "timeDay": 2193,
+    "timeWeek": 1578,
+    "timeMonth": 1337,
+    "timeYear": 3274,
     "dailyMinutesDown": {
       "2024-10-11": 852,
       "2024-09-29": 1134,
@@ -155,8 +154,7 @@
       "2023-11-29": 16,
       "2023-11-06": 51,
       "2023-10-26": 22,
-      "2023-10-25": 46,
-      "2023-10-15": 896
+      "2023-10-25": 46
     }
   },
   {
@@ -170,11 +168,11 @@
     "uptimeWeek": "91.55%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "96.20%",
-    "time": 3067,
-    "timeDay": 3659,
-    "timeWeek": 3983,
-    "timeMonth": 3843,
-    "timeYear": 3067,
+    "time": 3069,
+    "timeDay": 3527,
+    "timeWeek": 3945,
+    "timeMonth": 3873,
+    "timeYear": 3069,
     "dailyMinutesDown": {
       "2024-10-11": 852,
       "2024-09-29": 88,
@@ -199,11 +197,11 @@
     "uptimeWeek": "91.56%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "96.75%",
-    "time": 1930,
-    "timeDay": 1148,
-    "timeWeek": 1316,
-    "timeMonth": 1242,
-    "timeYear": 2138,
+    "time": 1931,
+    "timeDay": 1136,
+    "timeWeek": 1307,
+    "timeMonth": 1247,
+    "timeYear": 2137,
     "dailyMinutesDown": {
       "2024-10-11": 851,
       "2024-09-29": 1133,
@@ -247,8 +245,7 @@
       "2024-01-11": 62,
       "2023-12-05": 731,
       "2023-11-06": 19,
-      "2023-10-25": 46,
-      "2023-10-15": 896
+      "2023-10-25": 46
     }
   },
   {
@@ -263,9 +260,9 @@
     "uptimeMonth": "97.81%",
     "uptimeYear": "98.48%",
     "time": 3101,
-    "timeDay": 2588,
-    "timeWeek": 2988,
-    "timeMonth": 3011,
+    "timeDay": 3158,
+    "timeWeek": 2966,
+    "timeMonth": 3025,
     "timeYear": 3086,
     "dailyMinutesDown": {
       "2024-10-11": 851,
@@ -289,18 +286,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
     "status": "up",
-    "uptime": "97.98%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "77.79%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "97.87%",
-    "time": 8093,
-    "timeDay": 9653,
-    "timeWeek": 13465,
-    "timeMonth": 13545,
-    "timeYear": 8219,
+    "uptime": "97.95%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "78.35%",
+    "uptimeMonth": "85.97%",
+    "uptimeYear": "97.84%",
+    "time": 8116,
+    "timeDay": 14155,
+    "timeWeek": 13277,
+    "timeMonth": 13664,
+    "timeYear": 8251,
     "dailyMinutesDown": {
-      "2024-10-13": 110,
+      "2024-10-13": 105,
       "2024-10-12": 367,
       "2024-10-11": 939,
       "2024-10-09": 201,
@@ -339,7 +336,8 @@
       "2024-05-22": 230,
       "2024-05-21": 410,
       "2024-05-09": 18,
-      "2024-05-05": 59
+      "2024-05-05": 59,
+      "2024-05-01": 176
     }
   }
 ]
