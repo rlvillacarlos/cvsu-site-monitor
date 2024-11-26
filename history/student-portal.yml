@@ -1,7 +1,7 @@
 url: https://myportal.cvsu.edu.ph
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-26T07:55:44.727Z
+status: up
+code: 200
+responseTime: 1469
+lastUpdated: 2024-11-26T10:35:55.452Z
 startTime: 2023-05-11T05:16:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
