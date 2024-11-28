@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cvsu.edu.ph.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "75.20%",
+    "uptime": "75.21%",
     "uptimeDay": "89.75%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "84.25%",
@@ -100,8 +100,7 @@
       "2024-01-25": 65,
       "2024-01-11": 183,
       "2023-12-18": 96,
-      "2023-12-05": 731,
-      "2023-11-29": 16
+      "2023-12-05": 731
     }
   },
   {
@@ -110,15 +109,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/registrar.cvsu.edu.ph.ico",
     "slug": "registrar",
     "status": "up",
-    "uptime": "72.58%",
+    "uptime": "72.59%",
     "uptimeDay": "95.36%",
     "uptimeWeek": "97.74%",
-    "uptimeMonth": "98.36%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "95.12%",
     "time": 3001,
     "timeDay": 1539,
     "timeWeek": 1348,
-    "timeMonth": 1814,
+    "timeMonth": 1831,
     "timeYear": 3312,
     "dailyMinutesDown": {
       "2024-11-27": 67,
@@ -178,8 +177,7 @@
       "2024-01-25": 64,
       "2024-01-11": 182,
       "2023-12-18": 95,
-      "2023-12-05": 731,
-      "2023-11-29": 16
+      "2023-12-05": 731
     }
   },
   {
@@ -196,7 +194,7 @@
     "time": 3313,
     "timeDay": 8298,
     "timeWeek": 5573,
-    "timeMonth": 4338,
+    "timeMonth": 4381,
     "timeYear": 3313,
     "dailyMinutesDown": {
       "2024-11-27": 78,
@@ -228,12 +226,12 @@
     "uptime": "96.75%",
     "uptimeDay": "93.32%",
     "uptimeWeek": "97.46%",
-    "uptimeMonth": "98.12%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "95.39%",
     "time": 1978,
     "timeDay": 1641,
     "timeWeek": 1371,
-    "timeMonth": 1555,
+    "timeMonth": 1570,
     "timeYear": 2174,
     "dailyMinutesDown": {
       "2024-11-27": 96,
@@ -306,7 +304,7 @@
     "time": 3151,
     "timeDay": 8502,
     "timeWeek": 5081,
-    "timeMonth": 3522,
+    "timeMonth": 3545,
     "timeYear": 3197,
     "dailyMinutesDown": {
       "2024-11-27": 114,
@@ -340,7 +338,7 @@
     "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "86.41%",
+    "uptimeMonth": "86.68%",
     "uptimeYear": "97.63%",
     "time": 8875,
     "timeDay": 6686,
