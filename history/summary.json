@@ -8,13 +8,13 @@
     "uptime": "75.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.93%",
-    "uptimeMonth": "85.84%",
+    "uptimeMonth": "86.28%",
     "uptimeYear": "91.30%",
     "time": 5164,
     "timeDay": 2354,
     "timeWeek": 3059,
     "timeMonth": 3354,
-    "timeYear": 5482,
+    "timeYear": 5488,
     "dailyMinutesDown": {
       "2024-11-27": 148,
       "2024-11-26": 162,
@@ -109,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registrar.cvsu.edu.ph.ico",
     "slug": "registrar",
     "status": "up",
-    "uptime": "72.75%",
+    "uptime": "72.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.74%",
     "uptimeMonth": "98.47%",
@@ -118,7 +118,7 @@
     "timeDay": 934,
     "timeWeek": 1266,
     "timeMonth": 1819,
-    "timeYear": 3310,
+    "timeYear": 3314,
     "dailyMinutesDown": {
       "2024-11-27": 67,
       "2024-11-26": 161,
@@ -223,7 +223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/myportal.cvsu.edu.ph.ico",
     "slug": "student-portal",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "98.23%",
@@ -232,7 +232,7 @@
     "timeDay": 921,
     "timeWeek": 1323,
     "timeMonth": 1560,
-    "timeYear": 2159,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2024-11-27": 96,
       "2024-11-26": 160,
@@ -305,7 +305,7 @@
     "timeDay": 2802,
     "timeWeek": 4970,
     "timeMonth": 3534,
-    "timeYear": 3198,
+    "timeYear": 3197,
     "dailyMinutesDown": {
       "2024-11-27": 114,
       "2024-11-26": 160,
@@ -334,17 +334,17 @@
     "url": "http://library.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
-    "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "49.46%",
+    "status": "down",
+    "uptime": "97.93%",
+    "uptimeDay": "49.72%",
     "uptimeWeek": "82.78%",
-    "uptimeMonth": "84.47%",
-    "uptimeYear": "97.38%",
+    "uptimeMonth": "84.48%",
+    "uptimeYear": "97.54%",
     "time": 8953,
     "timeDay": 15798,
     "timeWeek": 11555,
     "timeMonth": 11903,
-    "timeYear": 9456,
+    "timeYear": 9465,
     "dailyMinutesDown": {
       "2024-11-30": 540,
       "2024-11-29": 1038,
@@ -386,7 +386,7 @@
       "2024-10-14": 330,
       "2024-10-13": 105,
       "2024-10-12": 367,
-      "2024-10-11": 939
+      "2024-10-11": 89
     }
   }
 ]
