@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "76.52%",
-    "uptimeDay": "35.14%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "96.42%",
+    "uptimeDay": "34.73%",
+    "uptimeWeek": "90.68%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "91.16%",
     "time": 5117,
     "timeDay": 1607,
@@ -16,7 +16,7 @@
     "timeMonth": 4418,
     "timeYear": 5397,
     "dailyMinutesDown": {
-      "2025-01-03": 285,
+      "2025-01-03": 291,
       "2025-01-02": 649,
       "2024-12-08": 373,
       "2024-12-05": 261,
@@ -344,13 +344,13 @@
     "url": "http://library.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "87.40%",
+    "uptimeDay": "87.39%",
     "uptimeWeek": "96.43%",
     "uptimeMonth": "76.60%",
     "uptimeYear": "96.83%",
-    "time": 8953,
+    "time": 8959,
     "timeDay": 6459,
     "timeWeek": 6712,
     "timeMonth": 8170,
@@ -394,8 +394,7 @@
       "2024-11-13": 224,
       "2024-11-12": 590,
       "2024-11-11": 607,
-      "2024-11-10": 631,
-      "2024-11-08": 18
+      "2024-11-10": 631
     }
   }
 ]
