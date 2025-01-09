@@ -192,12 +192,12 @@
     "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "95.11%",
     "time": 3360,
     "timeDay": 4133,
     "timeWeek": 3948,
-    "timeMonth": 3604,
+    "timeMonth": 3578,
     "timeYear": 3360,
     "dailyMinutesDown": {
       "2024-12-08": 1431,
@@ -306,12 +306,12 @@
     "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.76%",
     "time": 3176,
     "timeDay": 3557,
     "timeWeek": 3236,
-    "timeMonth": 3142,
+    "timeMonth": 3150,
     "timeYear": 3216,
     "dailyMinutesDown": {
       "2024-12-08": 1431,
@@ -346,18 +346,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
     "status": "up",
-    "uptime": "97.62%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "79.06%",
-    "uptimeYear": "96.92%",
+    "uptime": "97.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "81.76%",
+    "uptimeMonth": "79.07%",
+    "uptimeYear": "96.88%",
     "time": 8962,
     "timeDay": 11933,
     "timeWeek": 8448,
     "timeMonth": 8498,
     "timeYear": 9593,
     "dailyMinutesDown": {
-      "2025-01-08": 4,
       "2025-01-07": 487,
       "2025-01-06": 910,
       "2025-01-05": 126,
@@ -396,7 +395,8 @@
       "2024-11-17": 28,
       "2024-11-16": 65,
       "2024-11-15": 84,
-      "2024-11-14": 16
+      "2024-11-14": 76,
+      "2024-11-13": 129
     }
   }
 ]
