@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cvsu.edu.ph.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "76.42%",
+    "uptime": "76.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "90.50%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "90.49%",
     "time": 5095,
     "timeDay": 0,
     "timeWeek": 2657,
     "timeMonth": 3489,
     "timeYear": 5375,
     "dailyMinutesDown": {
-      "2025-01-11": 491,
+      "2025-01-11": 549,
       "2025-01-10": 1440,
       "2025-01-09": 320,
       "2025-01-04": 250,
@@ -345,11 +345,11 @@
     "url": "http://library.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "97.46%",
-    "uptimeDay": "17.90%",
+    "uptimeDay": "17.88%",
     "uptimeWeek": "72.74%",
-    "uptimeMonth": "81.11%",
+    "uptimeMonth": "81.24%",
     "uptimeYear": "96.69%",
     "time": 8985,
     "timeDay": 3342,
@@ -396,7 +396,7 @@
       "2024-11-18": 38,
       "2024-11-17": 28,
       "2024-11-16": 65,
-      "2024-11-15": 61
+      "2024-11-15": 36
     }
   }
 ]
