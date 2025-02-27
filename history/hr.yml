@@ -1,7 +1,7 @@
 url: https://hr.cvsu.edu.ph
-status: up
-code: 200
-responseTime: 5755
-lastUpdated: 2025-02-27T08:56:48.755Z
+status: down
+code: 503
+responseTime: 755
+lastUpdated: 2025-02-27T09:48:37.550Z
 startTime: 2024-04-13T15:34:40.679Z
 generator: Upptime <https://github.com/upptime/upptime>
