@@ -1,7 +1,7 @@
 url: https://elearning.cvsu.edu.ph
-status: up
-code: 200
-responseTime: 28944
-lastUpdated: 2025-04-10T16:36:50.603Z
+status: down
+code: 503
+responseTime: 3951
+lastUpdated: 2025-04-10T17:50:15.271Z
 startTime: 2023-05-11T05:17:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
