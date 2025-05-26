@@ -404,14 +404,14 @@
     "url": "http://library.cvsu.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "96.22%",
+    "uptimeDay": "97.10%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "93.93%",
     "uptimeYear": "97.22%",
-    "time": 9768,
-    "timeDay": 8400,
+    "time": 9774,
+    "timeDay": 3809,
     "timeWeek": 8776,
     "timeMonth": 6690,
     "timeYear": 10070,
@@ -460,8 +460,7 @@
       "2025-01-28": 22,
       "2025-01-27": 288,
       "2025-01-26": 1319,
-      "2025-01-25": 710,
-      "2025-01-24": 15
+      "2025-01-25": 710
     }
   }
 ]
