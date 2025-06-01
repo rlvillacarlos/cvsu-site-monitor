@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.06%",
     "uptimeYear": "88.17%",
-    "time": 5398,
-    "timeDay": 3786,
-    "timeWeek": 5115,
-    "timeMonth": 4762,
-    "timeYear": 4830,
+    "time": 5399,
+    "timeDay": 3348,
+    "timeWeek": 5056,
+    "timeMonth": 4748,
+    "timeYear": 4831,
     "dailyMinutesDown": {
       "2025-05-17": 44,
       "2025-05-14": 20,
@@ -116,8 +116,7 @@
       "2024-06-14": 142,
       "2024-06-13": 201,
       "2024-06-12": 250,
-      "2024-06-11": 798,
-      "2024-06-01": 46
+      "2024-06-11": 798
     }
   },
   {
@@ -126,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/registrar.cvsu.edu.ph.ico",
     "slug": "registrar",
     "status": "up",
-    "uptime": "80.85%",
+    "uptime": "80.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "95.86%",
-    "time": 2933,
-    "timeDay": 1236,
-    "timeWeek": 1012,
-    "timeMonth": 1609,
-    "timeYear": 2595,
+    "time": 2930,
+    "timeDay": 808,
+    "timeWeek": 993,
+    "timeMonth": 1603,
+    "timeYear": 2593,
     "dailyMinutesDown": {
       "2025-05-17": 44,
       "2025-03-13": 41,
@@ -183,8 +182,7 @@
       "2024-06-14": 32,
       "2024-06-13": 33,
       "2024-06-12": 250,
-      "2024-06-11": 798,
-      "2024-06-01": 46
+      "2024-06-11": 798
     }
   },
   {
@@ -193,16 +191,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admission.cvsu.edu.ph.ico",
     "slug": "admission",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.49%",
-    "uptimeYear": "97.57%",
-    "time": 1852,
-    "timeDay": 745,
-    "timeWeek": 856,
-    "timeMonth": 1231,
-    "timeYear": 1852,
+    "uptimeYear": "97.58%",
+    "time": 1845,
+    "timeDay": 722,
+    "timeWeek": 820,
+    "timeMonth": 1230,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2025-05-24": 382,
       "2025-05-23": 693,
@@ -228,10 +226,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.07%",
     "time": 3527,
-    "timeDay": 6840,
-    "timeWeek": 3896,
-    "timeMonth": 3864,
-    "timeYear": 3670,
+    "timeDay": 3438,
+    "timeWeek": 3801,
+    "timeMonth": 3870,
+    "timeYear": 3671,
     "dailyMinutesDown": {
       "2025-05-17": 24,
       "2025-05-07": 21,
@@ -273,10 +271,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "96.10%",
     "time": 2155,
-    "timeDay": 1136,
-    "timeWeek": 969,
-    "timeMonth": 1588,
-    "timeYear": 2229,
+    "timeDay": 842,
+    "timeWeek": 955,
+    "timeMonth": 1586,
+    "timeYear": 2228,
     "dailyMinutesDown": {
       "2025-05-17": 23,
       "2025-03-13": 40,
@@ -324,8 +322,7 @@
       "2024-06-15": 1203,
       "2024-06-13": 16,
       "2024-06-12": 250,
-      "2024-06-11": 798,
-      "2024-06-01": 47
+      "2024-06-11": 798
     }
   },
   {
@@ -339,10 +336,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "55.29%",
     "uptimeYear": "92.43%",
-    "time": 3266,
-    "timeDay": 2813,
-    "timeWeek": 2851,
-    "timeMonth": 3336,
+    "time": 3265,
+    "timeDay": 2785,
+    "timeWeek": 2835,
+    "timeMonth": 3331,
     "timeYear": 3301,
     "dailyMinutesDown": {
       "2025-05-17": 500,
@@ -400,18 +397,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.cvsu.edu.ph.ico",
     "slug": "library",
     "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "97.25%",
-    "time": 9775,
-    "timeDay": 3913,
-    "timeWeek": 5114,
-    "timeMonth": 6498,
+    "uptime": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "93.89%",
+    "uptimeYear": "97.22%",
+    "time": 9773,
+    "timeDay": 3594,
+    "timeWeek": 5034,
+    "timeMonth": 6486,
     "timeYear": 10076,
     "dailyMinutesDown": {
-      "2025-05-31": 12,
       "2025-05-26": 57,
       "2025-05-25": 16,
       "2025-05-24": 39,
@@ -456,7 +452,7 @@
       "2025-01-28": 22,
       "2025-01-27": 288,
       "2025-01-26": 1319,
-      "2025-01-25": 514
+      "2025-01-25": 710
     }
   }
 ]
