@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cvsu.edu.ph.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "94.22%",
+    "uptime": "94.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.35%",
@@ -13,7 +13,7 @@
     "time": 5252,
     "timeDay": 3273,
     "timeWeek": 7517,
-    "timeMonth": 5434,
+    "timeMonth": 5352,
     "timeYear": 4942,
     "dailyMinutesDown": {
       "2025-07-02": 24,
@@ -130,7 +130,7 @@
     "time": 2818,
     "timeDay": 977,
     "timeWeek": 1068,
-    "timeMonth": 1209,
+    "timeMonth": 1200,
     "timeYear": 2239,
     "dailyMinutesDown": {
       "2025-06-29": 136,
@@ -190,7 +190,7 @@
     "time": 1651,
     "timeDay": 980,
     "timeWeek": 1006,
-    "timeMonth": 1047,
+    "timeMonth": 1053,
     "timeYear": 1651,
     "dailyMinutesDown": {
       "2025-07-02": 60,
@@ -231,7 +231,7 @@
     "time": 3540,
     "timeDay": 3330,
     "timeWeek": 3844,
-    "timeMonth": 3686,
+    "timeMonth": 3688,
     "timeYear": 3723,
     "dailyMinutesDown": {
       "2025-06-29": 117,
@@ -281,7 +281,7 @@
     "time": 2207,
     "timeDay": 1213,
     "timeWeek": 1070,
-    "timeMonth": 1235,
+    "timeMonth": 1248,
     "timeYear": 2119,
     "dailyMinutesDown": {
       "2025-06-29": 135,
@@ -344,7 +344,7 @@
     "time": 3292,
     "timeDay": 3548,
     "timeWeek": 5791,
-    "timeMonth": 3698,
+    "timeMonth": 3729,
     "timeYear": 3362,
     "dailyMinutesDown": {
       "2025-06-29": 162,
@@ -407,17 +407,17 @@
     "slug": "library",
     "status": "up",
     "uptime": "97.94%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "87.18%",
-    "uptimeYear": "96.33%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "87.21%",
+    "uptimeYear": "96.32%",
     "time": 9770,
     "timeDay": 21065,
     "timeWeek": 7690,
-    "timeMonth": 6379,
+    "timeMonth": 6450,
     "timeYear": 10029,
     "dailyMinutesDown": {
-      "2025-07-05": 62,
+      "2025-07-05": 51,
       "2025-06-29": 117,
       "2025-06-28": 827,
       "2025-06-27": 1440,
@@ -469,7 +469,7 @@
       "2025-02-01": 24,
       "2025-01-31": 62,
       "2025-01-30": 170,
-      "2025-01-29": 21
+      "2025-01-29": 74
     }
   }
 ]
