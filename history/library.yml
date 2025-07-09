@@ -1,7 +1,7 @@
 url: http://library.cvsu.edu.ph
-status: up
-code: 200
-responseTime: 4764
-lastUpdated: 2025-07-08T23:13:22.905Z
+status: down
+code: 503
+responseTime: 21563
+lastUpdated: 2025-07-09T19:15:19.052Z
 startTime: 2023-09-24T06:19:14.243Z
 generator: Upptime <https://github.com/upptime/upptime>
