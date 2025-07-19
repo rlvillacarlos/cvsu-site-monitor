@@ -1,7 +1,7 @@
 url: https://admission.cvsu.edu.ph
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-19T06:47:11.264Z
+status: up
+code: 200
+responseTime: 826
+lastUpdated: 2025-07-19T07:29:29.188Z
 startTime: 2025-01-19T17:24:48.848Z
 generator: Upptime <https://github.com/upptime/upptime>
