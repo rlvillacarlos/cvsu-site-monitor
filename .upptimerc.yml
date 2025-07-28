@@ -19,6 +19,8 @@ sites:
     url: https://elearning.cvsu.edu.ph
   - name: Library
     url: http://library.cvsu.edu.ph
+  - name: PPMP
+    url: http://ppmp.cvsu.edu.ph
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
