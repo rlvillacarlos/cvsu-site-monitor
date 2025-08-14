@@ -1,7 +1,7 @@
 url: http://ppmp.cvsu.edu.ph
-status: up
-code: 200
-responseTime: 2151
-lastUpdated: 2025-08-13T23:13:07.188Z
+status: down
+code: 500
+responseTime: 12419
+lastUpdated: 2025-08-14T22:46:02.413Z
 startTime: 2025-07-28T02:40:05.500Z
 generator: Upptime <https://github.com/upptime/upptime>
