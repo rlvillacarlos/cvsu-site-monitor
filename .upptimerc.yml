@@ -6,22 +6,45 @@ sites:
   - name: Website
     url: https://cvsu.edu.ph
     method: POST
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: Registrar
     url: https://registrar.cvsu.edu.ph
-    method: POST    
+    method: POST
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: Admission
     url: https://admission.cvsu.edu.ph
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: HR
     url: https://hr.cvsu.edu.ph
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: Student Portal
     url: https://myportal.cvsu.edu.ph
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: LMS
     url: https://elearning.cvsu.edu.ph
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: Library
     url: http://library.cvsu.edu.ph
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
   - name: PPMP
     url: http://ppmp.cvsu.edu.ph
-    
+    headers:
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
